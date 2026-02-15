@@ -1,0 +1,8 @@
+#ifndef SEA_SHELL_CONFIG_H_
+#define SEA_SHELL_CONFIG_H_
+
+#define SH_PREFIX_SIZE 32
+#define SH_INPUT_BUFF_SIZE 128
+#define SH_OUTPUT_BUFF_SIZE 128
+
+#endif // SEA_SHELL_CONFIG_H_
